@@ -13,7 +13,7 @@ The high-level architecture consists of the following components:
 - **Data Visualization**: AWS QuickSight
 
 ## Architecture Diagram
-![Architecture Diagram](Architecture Diagram.pdf)
+It is available in Project folder as a pdf file named as **Architecture Diagram.pdf**
 
 ## Setup Instructions
 1. Clone the repository.
