@@ -19,4 +19,3 @@ It is available in Project folder as a pdf file named as **Architecture Diagram.
 1. Clone the repository.
 2. Configure AWS credentials.
 3. Deploy the CloudFormation templates to set up the necessary infrastructure.
-4. Follow the detailed setup guide in the `docs` folder.
